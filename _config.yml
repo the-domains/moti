@@ -1,6 +1,6 @@
 name: MoTi
 favicon: null
-layout_spectrum: 0.6065902849659324
+layout_spectrum: 0.92475
 typography_spectrum: 0.13236620859242976
 title: '#MoTi'
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.6872297504451126
+    - '#fefefe'
+    - '#6c7c8c'
+    - '#cbcfda'
+    - '#999a4a'
+    - '#36363e'
+  brandStrength: 0.6875
   lightness: 0.7055770684964955
   saturation: 0.006556059001013637
   rhythmicContrast: 0.8121743674855679
