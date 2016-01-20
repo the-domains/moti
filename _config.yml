@@ -2,6 +2,7 @@ name: MoTi
 favicon: null
 layout_spectrum: 0.6065902849659324
 typography_spectrum: 0.13236620859242976
+title: '#MoTi'
 cta:
   domain: null
   bucket: null
